@@ -40,5 +40,5 @@ management:
 info:
   app:
     name: "Vedio-Service-config-server"
-    description: "This is Vedio service"
+    description: "This is Vedio service.Refresh by bus cloud22"
     version: "1.0"
