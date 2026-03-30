@@ -47,5 +47,5 @@ management:
 info:
   app:
     name: "Course-Service-config-server"
-    description: "This is Course service"
+    description: "This is Course serviceRefresh by bus cloud"
     version: "1.0"
